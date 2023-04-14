@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "512000334631",
+    "project_id": "myeduate-48fee",
+    "storage_bucket": "myeduate-48fee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512000334631:android:ab084b8d3240dd6f03a702",
+        "android_client_info": {
+          "package_name": "com.pyramid.myeduate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512000334631-dbi09sjgol1a46ubbltqg636pk8cupo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzZqA7A9_GZiA5R1zWxAse53BFniQpBIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512000334631-dbi09sjgol1a46ubbltqg636pk8cupo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
